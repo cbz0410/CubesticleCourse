@@ -2,7 +2,7 @@
 
 This is the result of my first time messing around on Unity 3D.
 
-In CubesticleCourse, the player must navagate 3 levels of obstacles to reach the end without falling off.
+In CubesticleCourse, the player must navigate 3 levels of obstacles to reach the end without falling off.
 
 In this project, I learned the basics of Unity 3D, including:
 -  3D physics and collision detection
