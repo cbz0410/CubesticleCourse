@@ -6,7 +6,7 @@ In CubesticleCourse, the player must navigate 3 levels of obstacles to reach the
 
 In this project, I learned the basics of Unity 3D, including:
 -  3D physics and collision detection
--  3D Sprite movement and object scripts
+-  3D sprite movement and object scripts
 -  The role of game managers
 -  Animations and switching between scenes using scene managers
 -  3D game area creation and level design
